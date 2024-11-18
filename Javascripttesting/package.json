@@ -1,0 +1,16 @@
+{
+  "name": "js_testing",
+  "version": "1.0.0",
+  "description": "This is a testing for MOCHA and CHAI file",
+  "type": "module",
+  "main": "tdd.js",
+  "scripts": {
+    "test": "mocha tdd.js"
+  },
+  "author": "evangel",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^10.8.2"
+  }
+}
